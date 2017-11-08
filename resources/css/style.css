@@ -1,0 +1,36 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+}
+
+footer {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
+}
+
+.titleheader {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+.subheader {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.excursionlink {
+  color: aquamarine;
+  font-size: 16px;
+}
